@@ -1,3 +1,6 @@
+// time complexity: 0(n)
+// space complexity : O(1)
+
 int removeElement(vector<int>& arr, int val) {
         int i=0;
         int j=0;
