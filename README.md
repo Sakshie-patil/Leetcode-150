@@ -1,35 +1,52 @@
-# 💻 Leetcode 150 DSA Challenge
+🧠 LeetCode Top 150 – Daily DSA Practice
 
-This repository contains my solutions to the **Leetcode Top 150 Interview Questions**, solved in C++/Python with clean code, explanations, and consistent daily progress.
+Welcome to my LeetCode 150 DSA Practice Repository!
+This repository is dedicated to solving the Top 150 LeetCode Interview Questions to strengthen my problem-solving skills and prepare efficiently for coding interviews.
 
----
+🎯 Daily Goal
 
-## 📈 Progress Tracker
+I aim to solve 3 questions every day from the LeetCode Top 150 list.
+This consistent and focused approach helps me build strong fundamentals in Data Structures and Algorithms (DSA).
 
-- ✅ Total Problems: 150  
-- 📅 Solved So Far: **`X / 150`**  
-- 🔄 Daily Target: **3 problems/day**
+💻 Language Used
 
-### 📊 Visual Progress
+All solutions are implemented in C++.
+(You can update this to Java or Python if needed.)
 
-![Progress](https://progress-bar.dev/X/?scale=150&title=solved&width=500&color=0f9d58)
+🚀 Progress Tracker
 
-> Replace `X` above with your current number of solved problems (automatically or manually).
+Date	Problems Solved
+July 20	3 problems ✅
+July 21	3 problems ✅
+July 22	3 problems ✅
+...	...
+🗓️ This table grows daily — keep grinding!
+📌 Problem Categories Covered
 
----
+✅ Arrays
+✅ Strings
+✅ Linked Lists
+✅ Stack & Queue
+✅ Binary Trees
+✅ Recursion & Backtracking
+✅ Heap / Priority Queue
+✅ Graphs
+✅ Sliding Window
+✅ Greedy Algorithms
+✅ Binary Search
+🙌 Feel Free to Connect or Contribute
 
-## 🗓️ Daily Log
+Have doubts, suggestions, or want to contribute?
+Feel free to open an issue or submit a pull request — discussions and collaboration are always welcome!
 
-| Day | Date       | Problems Solved                         | Solutions Folder |
-|-----|------------|------------------------------------------|------------------|
-| 1   | 2025-07-21 | Two Sum, Best Time to Buy/Sell Stock, Valid Parentheses | [Day 1](./Day%201) |
-| 2   | 2025-07-22 | ...                                      | [Day 2](./Day%202) |
-| 3   | 2025-07-23 | ...                                      | [Day 3](./Day%203) |
-| ... | ...        | ...                                      | ...              |
+📚 Useful Resources
 
-> Update this table every day as you complete new problems.
+🔗 LeetCode Top 150 List
+📄 C++ STL Documentation
+🧠 Striver’s DSA Sheet
+👋 Let’s Connect!
 
----
-
-## 📁 Folder Structure
+🔗 LinkedIn – Sakshi Patil <!-- replace with your actual LinkedIn profile -->
+📁 Other Projects <!-- you can link your portfolio or other GitHub repos -->
+Thanks for visiting! Let’s keep learning, solving, and growing! 💪🚀
 
