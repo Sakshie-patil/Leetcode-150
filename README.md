@@ -1,29 +1,35 @@
-# 💻 Leetcode 150 DSA Series
+# 💻 Leetcode 150 DSA Challenge
 
-Welcome to my personal journey of mastering Data Structures and Algorithms through the **Leetcode 150 curated list**!  
-I solve **3 problems every day** and upload my solutions here with explanations and code.
-
----
-
-## 📌 Goal
-- Complete the top 150 DSA problems on Leetcode
-- Strengthen concepts through consistent practice
-- Prepare efficiently for coding interviews
+This repository contains my solutions to the **Leetcode Top 150 Interview Questions**, solved in C++/Python with clean code, explanations, and consistent daily progress.
 
 ---
 
-## 📅 Daily Progress
+## 📈 Progress Tracker
 
-| Day | Date       | Problems Solved                                |
-|-----|------------|--------------------------------------------------|
-| 1   | YYYY-MM-DD | Problem 1, Problem 2, Problem 3                  |
-| 2   | YYYY-MM-DD | Problem 4, Problem 5, Problem 6                  |
-| 3   | YYYY-MM-DD | ...                                              |
-| ... | ...        | ...                                              |
+- ✅ Total Problems: 150  
+- 📅 Solved So Far: **`X / 150`**  
+- 🔄 Daily Target: **3 problems/day**
 
-> 🛠 Update this table daily to track your progress!
+### 📊 Visual Progress
+
+![Progress](https://progress-bar.dev/X/?scale=150&title=solved&width=500&color=0f9d58)
+
+> Replace `X` above with your current number of solved problems (automatically or manually).
 
 ---
 
-## 📂 Folder Structure
+## 🗓️ Daily Log
+
+| Day | Date       | Problems Solved                         | Solutions Folder |
+|-----|------------|------------------------------------------|------------------|
+| 1   | 2025-07-21 | Two Sum, Best Time to Buy/Sell Stock, Valid Parentheses | [Day 1](./Day%201) |
+| 2   | 2025-07-22 | ...                                      | [Day 2](./Day%202) |
+| 3   | 2025-07-23 | ...                                      | [Day 3](./Day%203) |
+| ... | ...        | ...                                      | ...              |
+
+> Update this table every day as you complete new problems.
+
+---
+
+## 📁 Folder Structure
 
