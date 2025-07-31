@@ -1,4 +1,5 @@
 //condition : nums[i] + nums[j] + nums[k] == 0
+// solution set must not contain duplicate triplets.
 
 vector<vector<int>> threeSum(vector<int>& arr) {
         sort(arr.begin(), arr.end());
