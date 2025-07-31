@@ -1,3 +1,5 @@
+//condition : nums[i] + nums[j] + nums[k] == 0
+
 vector<vector<int>> threeSum(vector<int>& arr) {
         sort(arr.begin(), arr.end());
         int n = arr.size();
